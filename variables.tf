@@ -1,0 +1,1 @@
+variable "snowflake_key" {}
